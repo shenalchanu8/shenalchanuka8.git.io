@@ -5,11 +5,12 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #FFF6E9;
+  
 }
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: #FFF6E9;
 }
 
 html {
